@@ -1,0 +1,12 @@
+package com.helloWorld;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class RestTemplateDemoHbkApplication {
+
+  public static void main(String[] args) {
+    SpringApplication.run(RestTemplateDemoHbkApplication.class, args);
+  }
+}
