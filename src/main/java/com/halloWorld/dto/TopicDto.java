@@ -1,4 +1,4 @@
-package com.helloWorld.dto;
+package com.halloWorld.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
